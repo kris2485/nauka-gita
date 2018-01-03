@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kris2485/nauka-gita/issues"
   },
-  "homepage": "https://github.com/kris2485/nauka-gita#readme"
+  "homepage": "https://github.com/kris2485/nauka-gita#readme",
+  "dependencies": {
+    "browser-sync": "^2.23.2"
+  }
 }
